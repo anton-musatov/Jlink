@@ -1,0 +1,1 @@
+1. Unpack archives into C:\Keil_v5\ARM\Segger
